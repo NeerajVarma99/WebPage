@@ -1,0 +1,132 @@
+.navbar{
+    background-color: lightblue;
+  }
+  h1{
+    text-align: center;
+  
+  }
+  p{
+    text-align: justify;
+    padding-left: 50px;
+  }
+  
+  .heading{
+    text-align: center;
+  }
+  .mark{
+    background-color: #ee222c;
+  }
+  img{
+    padding-right: 10px
+  }
+  td{
+    padding: 50px;
+  }
+  .Introduction{
+      background-color:linear-gradient(to right bottom, #ffa41b, #ff5151);;
+  }
+  .Introduction h4{
+  padding-left:50px;
+  }
+  .Introduction p{
+  padding-right:100px;
+  }
+  #yoga
+  {
+  background: lightblue;
+  background: -webkit-linear-gradient(to right, blue, lightblue);
+  background: linear-gradient(to right, blue, lightblue);
+  padding: 20px;
+  padding-right: 20px;
+  }
+  .yoga-content
+  {
+      display: flex;
+  }
+  .yoga-left
+  {
+      padding: 20px;
+  }
+  @media screen and (max-width: 600px)
+  {
+      .yoga-content
+      {
+          display: block;
+          
+      }
+      .yoga-img{
+          width: 400px;
+      }
+  }
+  /* section 5 */
+  #leion
+  {
+      background-color: #1c334f ;
+      padding: 50px;
+  }
+  .leion-content
+  {
+      display: flex;
+      justify-content: space-around;
+  }
+  .left-case
+  {
+      padding: 5%;
+      color: white;
+  }
+  @media screen and (max-width: 600px)
+  {
+      .leion-content
+      {
+          display: block;
+      }
+      .leion-img
+      {
+          width: 400px;
+      }
+  }
+  /* section-6 */
+  #gaming
+  {
+      background: #FDC830;
+  background: -webkit-linear-gradient(to right, #F37335, #FDC830); 
+  background: linear-gradient(to right, #F37335, #FDC830); 
+  padding: 20px;
+  
+  }
+  .gaming-content
+  {
+      display: flex;
+  
+  }
+  .gaming-left
+  {
+      padding: 5%;
+  }
+  @media screen and (max-width: 600px)
+  {
+      .gaming-content
+      {
+          display: block;    
+      }
+      .gaming-img
+      {
+          width: 400px;
+      }
+  }
+  
+  
+  .copyright{
+      font-size: 11px;
+      color: #ffffff;
+      text-align: center;
+  }
+  .footer {
+     position: sticky;
+     left: 0;
+     bottom: 0;
+     width: 100%;
+     background-color: red;
+     color: white;
+     text-align: center;
+  }

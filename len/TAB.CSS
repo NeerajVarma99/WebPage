@@ -1,0 +1,57 @@
+.navbar{
+    background-color: lightblue;
+  }
+  h1{
+    text-align: center;
+  
+  }
+  p{
+    text-align: justify;
+    padding-left: 50px;
+  }
+  img{
+    padding-right: 10px
+  }
+  td{
+    padding: 50px;
+  }
+  .Introduction{
+      background-color:linear-gradient(to right bottom, #ffa41b, #ff5151);;
+  }
+  .Introduction h4{
+  padding-left:50px;
+  }
+  .Introduction p{
+  padding-right:100px;
+  }
+  .ta{
+  	display:flex;
+  	padding: 100px;
+  }
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 40%;
+  }
+  
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  .container {
+    padding: 2px 16px;
+  }  
+  .copyright{
+      font-size: 11px;
+      color: #ffffff;
+      text-align: center;
+  }
+  .footer {
+     position: sticky;
+     left: 0;
+     bottom: 0;
+     width: 100%;
+     background-color: red;
+     color: white;
+     text-align: center;
+  }
